@@ -12,7 +12,7 @@ Here's what I've been up to lately:
 
 <center>
   <h3>Contact</h3>
-  <a href="linedkin.com"><img src="/icons/linedkin-fill.svg" /></a>
+  <img src="/icons/linedkin-fill.svg" />
 </center>
 
 <img src="/icons/bottom.svg" />
