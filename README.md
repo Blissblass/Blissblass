@@ -15,8 +15,9 @@ Here's what I've been up to lately:
 <details>
   <summary>Some more facts about me!</summary>
   <ul>
-    <li>⚙️ I like experimenting with mechanical engineering in my spare time!</li>
+    <li>⚙️ I like experimenting with arduinos in my spare time!</li>
     <li>👨🏼‍🍳 One of my other big hobbies is cooking! I make a mean chicken alfredo 🍝</li>
+    <li>📖 I also love reading! My favourite book is The Neverending Story! 
   </ul>
 </details>
 
