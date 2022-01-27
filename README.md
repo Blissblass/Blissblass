@@ -13,7 +13,11 @@ Here's what I've been up to lately:
 - 💻 Getting myself into [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) development
 
 <details>
-  <summary>Some more facts about me!</summary>  
+  <summary>Some more facts about me!</summary>
+  <ul>
+    <li>⚙️ I like experimenting with mechanical engineering in my spare time!</li>
+    <li>👨🏼‍🍳 One of my other big hobbies is cooking! I make a mean chicken alfredo 🍝</li>
+  </ul>
 </details>
 
 <hr />
