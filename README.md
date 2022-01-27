@@ -1,11 +1,18 @@
-<img src="/svg (20).svg" />
+<img src="/icons/svg (20).svg" />
 
-I like experimenting with new technologies and growing my skills!
+📌 I'm currently looking to join a team that would be willing to welcome a detail-oriented, ambitious developer! 📌
 
-Here's a list of things I keep myself busy with:
+I like learning with new technologies and growing my skills! 🌟
+
+Here's what I've been up to lately:
 
 - 🛠️ Working as a freelance full-stack developer using [Ruby On Rails](https://rubyonrails.org/) and [ReactJS](https://reactjs.org/)
 - 🐱‍💻 Learning [React Native](https://reactnative.dev/) for mobile development
 - 💻 Getting myself into [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) development
 
-I'm currently looking to join a team that would be willing to welcome a detail-oriented, ambitious developer!
+<center>
+  <h3>Contact</h3>
+  <a href="linedkin.com"><img src="/icons/linedkin-fill.svg" /></a>
+</center>
+
+<img src="/icons/bottom.svg" />
