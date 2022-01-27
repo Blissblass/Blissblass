@@ -19,6 +19,8 @@ Here's what I've been up to lately:
     <li>👨🏼‍🍳 One of my other big hobbies is cooking! I make a mean chicken alfredo 🍝</li>
     <li>📖 I also love reading! My favourite book is The Neverending Story! 
   </ul>
+  
+  [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissblass)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <hr />
