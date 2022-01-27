@@ -20,7 +20,8 @@ Here's what I've been up to lately:
     <li>📖 I also love reading! My favourite book is The Neverending Story! 
   </ul>
   
-  [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissblass&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissblass&count_private=true&show_icons=true)
+](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <hr />
