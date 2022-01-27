@@ -12,7 +12,7 @@ Here's what I've been up to lately:
 
 <center>
   <h3>Contact</h3>
-  <img src="/icons/linedkin-fill.svg" />
+  <a href="https://linkedin.com"><img src="/icons/linkedin-fill.svg" /></a>
 </center>
 
 <img src="/icons/bottom.svg" />
