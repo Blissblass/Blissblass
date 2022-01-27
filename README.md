@@ -35,9 +35,9 @@ Here's what I've been up to lately:
 <div align="center">
   <h3>Contact</h3>
   <p><em>Let's connect and chat!</em></p>
-  <a href="https://linkedin.com"><img src="/icons/linkedin-fill.svg" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="/icons/linkedin-fill.svg" /></a>
   <a href="mailto:erayalkis@hotmail.com"><img src="/icons/mail-fill.svg" /></a>
-  <a href="https://erayalkis.netlify.app"><img src="/icons/window-fill.svg" /></a>
+  <a href="https://erayalkis.netlify.app" target="_blank"><img src="/icons/window-fill.svg" /></a>
 </div>
 
 <img src="/icons/bottom.svg" />
