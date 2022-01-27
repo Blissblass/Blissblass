@@ -9,3 +9,5 @@ Here's a list of things I keep myself busy with:
 - 💻 Getting myself into [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) development
 
 I'm currently looking to join a team that would be willing to welcome a detail-oriented, ambitious developer!
+
+<img src="/bottom.svg" />
