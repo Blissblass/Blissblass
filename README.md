@@ -3,7 +3,7 @@
 <div align="center">
 📌 I'm currently looking to join a team that would be willing to welcome a detail-oriented, ambitious developer! 📌
 </div>
-
+<br />
 I like learning with new technologies and growing my skills! 🌟
 
 Here's what I've been up to lately:
