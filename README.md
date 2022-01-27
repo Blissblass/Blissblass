@@ -5,12 +5,15 @@
 </div>
 <br />
 I like learning with new technologies and growing my skills! 🌟
-
+<br />
 Here's what I've been up to lately:
 
 - 🛠️ Working as a freelance full-stack developer using [Ruby On Rails](https://rubyonrails.org/) and [ReactJS](https://reactjs.org/)
 - 🐱‍💻 Learning [React Native](https://reactnative.dev/) for mobile development
 - 💻 Getting myself into [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) development
+
+
+<hr />
 
 <div align="center">
   <h3>Contact</h3>
