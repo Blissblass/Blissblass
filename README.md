@@ -15,7 +15,7 @@ Here's what I've been up to lately:
 <br />
 
 <div align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Blissblass&left_color=grey&right_color=blue)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Blissblass.visitor-badge)
 </div>
 
 <details>
