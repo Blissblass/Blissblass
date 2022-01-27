@@ -15,9 +15,9 @@ Here's what I've been up to lately:
 <br />
 
 <div align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Blissblass.visitor-badge)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Blissblass.visitor-badge" alt="Blisblass' visitor badge" />
 </div>
-
+<br />
 <details>
   <summary>Some more facts about me!</summary>
   <ul>
