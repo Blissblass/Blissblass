@@ -11,6 +11,7 @@ Here's what I've been up to lately:
 - 🛠️ Working as a freelance full-stack developer using [Ruby On Rails](https://rubyonrails.org/) and [ReactJS](https://reactjs.org/)
 - 🐱‍💻 Learning [React Native](https://reactnative.dev/) for mobile development
 - 💻 Getting myself into [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) development
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Blissblass&left_color=green&right_color=red)
 
 <details>
   <summary>Some more facts about me!</summary>
