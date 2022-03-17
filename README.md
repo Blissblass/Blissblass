@@ -15,7 +15,7 @@ Here's what I've been up to lately:
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=erayalkis&color=blue&label=Visitors)
+![](https://komarev.com/ghpvc/?username=erayalkis&color=blue&label=Visitors&style=flat-square)
 <br />
 <details>
   <summary>Some more facts about me!</summary>
