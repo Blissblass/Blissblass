@@ -16,7 +16,7 @@ Here's what I've been up to lately:
 <br />
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Blissblass.visitor-badge" alt="Blisblass' visitor badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=erayalkis.visitor-badge" alt="erayalkis' visitor badge" />
 </div>
 <br />
 <details>
@@ -27,7 +27,7 @@ Here's what I've been up to lately:
     <li>📖 I also love reading! My favourite book is The Neverending Story! 
   </ul>
   
-  [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissblass&count_private=true&show_icons=true&theme=cobalt)
+  [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=erayalkis&count_private=true&show_icons=true&theme=cobalt)
 ](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
