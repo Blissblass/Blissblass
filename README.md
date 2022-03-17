@@ -15,9 +15,7 @@ Here's what I've been up to lately:
 
 <br />
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=erayalkis.visitor-badge" alt="erayalkis' visitor badge" />
-</div>
+![](https://komarev.com/ghpvc/?username=erayalkis)
 <br />
 <details>
   <summary>Some more facts about me!</summary>
