@@ -22,7 +22,7 @@ Here's what I've been up to lately:
   <ul>
     <li>⚙️ I like experimenting with arduinos in my spare time!</li>
     <li>👨🏼‍🍳 One of my other big hobbies is cooking! I make a mean chicken alfredo 🍝</li>
-    <li>📖 I also love reading! My favourite book is The Neverending Story! 
+    <li>📖 I also love reading! My favourite series is The Witcher! 
   </ul>
   
   [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=erayalkis&count_private=true&show_icons=true&theme=cobalt)
