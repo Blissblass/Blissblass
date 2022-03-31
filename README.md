@@ -27,6 +27,8 @@ Here's what I've been up to lately:
   
   [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=erayalkis&count_private=true&show_icons=true&theme=cobalt)
 ](https://github.com/anuraghazra/github-readme-stats)
+  [![Eray's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayalkis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 <hr />
