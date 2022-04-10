@@ -1,4 +1,4 @@
-<object data="/icons/svg (20).svg"></object>
+<object data="/icons/svg (20).svg" width="400" height="300"></object>
 
 <div align="center">
 📌 I'm currently looking to join a team that would be willing to welcome a detail-oriented, ambitious developer! 📌
