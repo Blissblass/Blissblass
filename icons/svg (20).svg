@@ -7,14 +7,10 @@
    <stop stop-color="#6A4C91"/>
    <stop offset="1" stop-color="#6DA2BF"/>
   </linearGradient>
-  <style>
+  <style type="text/css">
     @font-face {
-      font-family: 'Rubik';
-      src: url("Rubik.tff");
-    }
-
-    svg {
-      font-family: 'Rubik';
+      font-family: Rubik;
+      src: url('./Rubik.tff');
     }
   </style>
  </defs>
