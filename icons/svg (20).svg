@@ -12,6 +12,10 @@
       font-family: 'Rubik';
       src: url("Rubik.tff");
     }
+
+    svg {
+      font-family: 'Rubik';
+    }
   </style>
  </defs>
  <g>
