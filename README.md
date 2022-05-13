@@ -15,7 +15,11 @@ Here's what I've been up to lately:
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=erayalkis&color=blue&label=Visitors&style=for-the-badge)
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=erayalkis&color=blue&label=Visitors&style=for-the-badge)
+  
+</div>
 <br />
 <details>
   <summary>Some more facts about me!</summary>
@@ -27,8 +31,13 @@ Here's what I've been up to lately:
   
   [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=erayalkis&count_private=true&show_icons=true&theme=cobalt)
 ](https://github.com/anuraghazra/github-readme-stats)
-  [![Eray's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayalkis&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erayalkis&date_format=M%20j%5B%2C%20Y%5D&ring=047FEE&background=193549&fire=C577C2&currStreakNum=75EEB2&sideLabels=C577C2&dates=75EEB2&currStreakLabel=C577C2&stroke=047FEE&sideNums=75EEB2)](https://git.io/streak-stats)
 
+<div align="center">
+
+  [![Eray's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayalkis&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 </details>
 
 <hr />
