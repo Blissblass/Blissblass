@@ -1,26 +1,16 @@
 <svg width="1140" height="342" xmlns="http://www.w3.org/2000/svg" fill="none">
  <defs>
   <clipPath id="clip0">
-   <rect width="1140" height="342" fill="white" id="svg_1"/>
+   <rect id="svg_1" fill="white" height="342" width="1140"/>
   </clipPath>
-  <linearGradient id="paint0_linear" x1="1.02709" y1="0.2158" x2="0.01213" y2="1.02505">
+  <linearGradient y2="1.02505" x2="0.01213" y1="0.2158" x1="1.02709" id="paint0_linear">
    <stop stop-color="#6A4C91"/>
-   <stop offset="1" stop-color="#6DA2BF"/>
+   <stop stop-color="#6DA2BF" offset="1"/>
   </linearGradient>
-  <style type="text/css">
-    @font-face {
-      font-family: 'Rubik';
-      src: url('./Rubik.tff');
-    }
-
-    svg {
-      font-family: 'Rubik';
-    }
-  </style>
  </defs>
  <g>
   <title>Layer 1</title>
-  <path d="m344,250c-147.2,-50 -295.5,25 -341.5,87.5l-58.5,72.5l0,-519l1219.5,0l17,394.5c-51.6,-70.8 -251,-77.293 -359.5,-35.5c-108.5,41.793 -329.8,50 -477,0z" fill="url(#paint0_linear)" id="svg_3"/>
-  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Rubik'" font-size="120" stroke-width="0" id="svg_2" y="160" x="260" fill="#ffffff">hi, i'm Eray!</text>
+  <path id="svg_3" fill="url(#paint0_linear)" d="m344,250c-147.2,-50 -295.5,25 -341.5,87.5l-58.5,72.5l0,-519l1219.5,0l17,394.5c-51.6,-70.8 -251,-77.293 -359.5,-35.5c-108.5,41.793 -329.8,50 -477,0z"/>
+  <text fill="#ffffff" x="145" y="160" id="svg_2" stroke-width="0" font-size="120" font-family="Courier" text-anchor="start" xml:space="preserve" font-weight="bold">hi, i'm Eray!</text>
  </g>
 </svg>
