@@ -28,11 +28,19 @@ Here's what I've been up to lately:
     <li>👨🏼‍🍳 One of my other big hobbies is cooking! I make a mean chicken alfredo 🍝</li>
     <li>📖 I also love reading! My favourite series is The Witcher! 
   </ul>
+ 
+<div align="center">
   
   [![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=erayalkis&count_private=true&show_icons=true&theme=cobalt)
-](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erayalkis&date_format=M%20j%5B%2C%20Y%5D&ring=047FEE&background=193549&fire=C577C2&currStreakNum=75EEB2&sideLabels=C577C2&dates=75EEB2&currStreakLabel=C577C2&stroke=047FEE&sideNums=75EEB2)](https://git.io/streak-stats)
-
+  ](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+  
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erayalkis&date_format=M%20j%5B%2C%20Y%5D&ring=047FEE&background=193549&fire=C577C2&currStreakNum=75EEB2&sideLabels=C577C2&dates=75EEB2&currStreakLabel=C577C2&stroke=047FEE&sideNums=75EEB2)](https://git.io/streak-stats)
+  
+</div>
 <div align="center">
 
   [![Eray's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayalkis&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
