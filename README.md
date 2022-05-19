@@ -11,7 +11,7 @@ Here's what I've been up to lately:
 - 🛠️ Working as a freelance full-stack developer
 - ⚙️ Maintaining [ToyScrape](https://github.com/Blissblass/toyhouse_downloader)
 - 🐱‍💻 Learning [React Native](https://reactnative.dev/) for mobile development
-- 💻 Getting myself into [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) development
+- 💻 Getting myself into [Rust](https://www.rust-lang.org/)/[Rocket](https://rocket.rs/) Development
 
 <br />
 
