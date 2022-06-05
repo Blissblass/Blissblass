@@ -9,7 +9,7 @@ I like learning with new technologies and growing my skills! 🌟
 Here's what I've been up to lately:
 
 - 🛠️ Working as a freelance full-stack developer
-- ⚙️ Maintaining [ToyScrape](https://github.com/Blissblass/toyhouse_downloader)
+- ⚙️ Maintaining [ToyScrape](https://github.com/erayalkis/toyhouse_downloader) and [Ruby-DSA](https://github.com/erayalkis/Ruby-DSA)
 - 🐱‍💻 Learning [React Native](https://reactnative.dev/) for mobile development
 - 💻 Getting myself into [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) Development
 
