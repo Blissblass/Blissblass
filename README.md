@@ -44,7 +44,7 @@ Here's what I've been up to lately:
   <a href="https://www.linkedin.com/in/eray-alkis-83ab9519b/" target="_blank"><img src="/icons/linkedin-fill.svg" /></a>
   <a href="https://erayalkis.onrender.com" target="_blank"><img src="/icons/window-fill.svg" /></a>
   <a href="mailto:erayalkis@hotmail.com"><img src="/icons/mail-fill.svg" /></a>
-  <a href="/docs/erayalkis_resume.pdf"><img src="/icons/address-book-solid.svg"/></a>
+  <a href="https:/erayalkis.onrender.com/assets/docs/Eray_Alkis_resume.pdf" target="_blank"><img src="/icons/address-book-solid.svg"/></a>
 </div>
 
 <img src="/icons/bottom.svg" />
