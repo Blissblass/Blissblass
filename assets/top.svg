@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 342" width="1140" height="342">
+	<title>svg (20)-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="1214" y1="3" x2="-41" y2="423" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6a4c91"/>
+			<stop offset="1" stop-color="#6da2bf"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+		.t1 { font-size: 120px;fill: #ffffff;font-weight: 700;font-family: "LiberationSans-Bold", "Liberation Sans" } 
+	</style>
+	<g id="Layer">
+		<path id="svg_3" class="s0" d="m344 250c-147.2-50-295.5 25-341.5 87.5l-58.5 72.5v-519h1219.5l17 394.5c-51.6-70.8-251-77.3-359.5-35.5-108.5 41.8-329.8 50-477 0z"/>
+		<text id="svg_2" style="transform: matrix(1,0,0,1,264,171)" >
+			<tspan x="0" y="0" class="t1">hi, i'm Eray!
+</tspan>
+		</text>
+	</g>
+</svg>
