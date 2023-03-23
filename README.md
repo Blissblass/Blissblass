@@ -31,7 +31,7 @@ What I've been up to lately:
   <ul>
     <li>🪛⚙️ I like messing around with electronics in my spare time!</li>
     <li>👨🏼‍🍳🍳 I love cooking! I make a mean chicken alfredo 🍝</li>
-    <li>🍄🧬 I'm also practicing DIY mycology! I currently have a WIP project for it which you can see <a href="https://www.github.com/erayalkis/mycotracker" target="_blank" title="MycoTracker">here</a></li>
+    <li>🍄🧬 I'm also practicing DIY mycology! I currently have a WIP project for it which you can see <a href="https://www.github.com/erayalkis/mycotrack" target="_blank" title="MycoTrack">here</a></li>
   </ul>
   <br />
   
