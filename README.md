@@ -14,7 +14,7 @@ I like learning with new technologies and growing my skills! 🌟
 What I've been up to lately:
 
 - 🛠️ Working as a freelance full-stack developer
-- ⚙️ Maintaining [ToyScrape](https://github.com/erayalkis/toyhouse_downloader) and [Komishon]("https://github.com/erayalkis/komishon")
+- ⚙️ Maintaining [ToyScrape](https://github.com/erayalkis/toyhouse_downloader) and [Komishon](https://github.com/erayalkis/komishon)
 - 💻 Learning [Rust](https://www.rust-lang.org/) and [Golang](https://go.dev/) for web development
   <br />
 
