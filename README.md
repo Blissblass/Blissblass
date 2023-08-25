@@ -51,8 +51,8 @@ What I've been up to lately:
   <p><em>Let's connect and chat!</em></p>
   <a href="mailto:erayalkis@hotmail.com"><img src="./assets/mail.svg" title="Email" /></a>
   <a href="https://www.linkedin.com/in/eray-alkis-83ab9519b/" target="_blank" title="LinkedIn"><img src="./assets/linkedin(1).svg" /></a>
-  <a href="https://erayalkis.onrender.com" target="_blank" title="Website"><img src="./assets/window.svg" /></a>
-  <a href="https://erayalkis.onrender.com/docs/resume.pdf" target="_blank" title="Resume"><img src="./assets/resume.svg"/></a>
+  <a href="https://erayalkis.com" target="_blank" title="Website"><img src="./assets/window.svg" /></a>
+  <a href="https://erayalkis.com/docs/resume.pdf" target="_blank" title="Resume"><img src="./assets/resume.svg"/></a>
 </div>
 
 <img src="./assets/bottom.svg" />
