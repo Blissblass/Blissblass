@@ -31,7 +31,7 @@ What I've been up to lately:
   <ul>
     <li>🪛⚙️ I like messing around with electronics in my spare time!</li>
     <li>👨🏼‍🍳🍳 I love cooking! I make a mean chicken alfredo 🍝</li>
-    <li>🎻 I also love playing the violin!</li>
+    <li>🎻🎵 I also love playing the violin!</li>
   </ul>
   <br />
   
