@@ -1,10 +1,4 @@
 <img src="./assets/top.svg" />
- 
-<br />
-<div align="center">
-<em>📌 Currently looking to join a close-knit team that is looking for a passionate developer! 📌</em>
-</div>
-<br />
 
 <br />
 I like learning with new technologies and growing my skills! 🌟
